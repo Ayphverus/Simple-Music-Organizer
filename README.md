@@ -1,6 +1,6 @@
 # Simple-Music-Organizer
 
-**!!!PLEASE MAKE A BACKUP BEFORE RUNNING!!!**
+**!!!THIS CODE WAS CREATED HASTILY, PLEASE MAKE A BACKUP BEFORE RUNNING!!!**
 
 Organizes music (mp3 and flac) via metadata/ tags into:
 
