@@ -52,3 +52,7 @@ Result should be as follows
 │           └── disorganizedmusic.flac
 └── music_organizer.py
 ```
+
+## Thanks
+
+Thanks to all those who made this possible with simple to use python packages.
